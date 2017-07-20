@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.20)  20 JUN 2017 14:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.20)  20 JUL 2017 13:26
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **newsletter.tex
 (./newsletter.tex
@@ -952,19 +952,14 @@ File: img/robots.jpg Graphic file (type jpg)
 Package pdftex.def Info: img/robots.jpg used on input line 93.
 (pdftex.def)             Requested size: 127.71413pt x 170.7199pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
 
  []
 
 <img/winning.jpg, id=31, 963.6pt x 722.7pt>
 File: img/winning.jpg Graphic file (type jpg)
  <use img/winning.jpg>
-Package pdftex.def Info: img/winning.jpg used on input line 100.
+Package pdftex.def Info: img/winning.jpg used on input line 99.
 (pdftex.def)             Requested size: 170.70569pt x 128.02927pt.
 
 
@@ -974,18 +969,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.101     \caption
+l.100     \caption
                   {\\\small{Team 3. From left to right: Xu Ji, Adam Goli\'ns...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 106.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 105.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 105--108
+Underfull \hbox (badness 10000) in paragraph at lines 104--107
 
  []
 
@@ -997,51 +992,56 @@ ims1.png> <./img/aims2.png> <./img/aims3.png> <./img/robots.jpg> <./img/winning
 Adding a new piece of news
 
 Package multicol Warning: Using `1' columns doesn't seem a good idea.
- I therefore use two columns instead on input line 137.
+ I therefore use two columns instead on input line 136.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 137.
-How much left 599.26796pt
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 136.
+How much left 602.5431pt
 Adding sep line between news
 Adding a new piece of news
 
 Package multicol Warning: Using `1' columns doesn't seem a good idea.
- I therefore use two columns instead on input line 154.
+ I therefore use two columns instead on input line 153.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--167
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
+Underfull \hbox (badness 10000) in paragraph at lines 160--166
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--173
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--176
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
 
  []
 
-How much left 127.35535pt
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+How much left 100.17523pt
 Adding sep line between news
 Adding a new piece of news
-LaTeX Font Info:    Try loading font information for T1+bch on input line 190.
+LaTeX Font Info:    Try loading font information for T1+bch on input line 192.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1bch.fd
 File: t1bch.fd 2004/10/18 font definitions for T1/bch.
 ) [2.51.41
@@ -1051,26 +1051,83 @@ n already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.190 	{2}
+l.192 	{2}
           pdfTeX warning (ext4): destination with the same identifier (name{2.0
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.190 	{2}
+l.192 	{2}
           ]
-How much left 600.54985pt
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 200.
+
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 200.
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
+How much left 437.54985pt
 Adding sep line between news
-How much left 580.14986pt
+How much left 417.14986pt
 Adding sep line between news
 
 AED: lastpage setting LastPage
 [3.51.41]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 234.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 248.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 248.
  (./newsletter.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 234.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 248.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 248.
 Package rerunfilecheck Info: File `newsletter.out' has not changed.
 (rerunfilecheck)             Checksum: FBBAF764B6BE057DBF3ED814BE235A0C;265.
 
@@ -1079,10 +1136,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 16309 strings out of 493013
- 284497 string characters out of 6133342
- 394369 words of memory out of 5000000
- 19599 multiletter control sequences out of 15000+600000
+ 16326 strings out of 493013
+ 284799 string characters out of 6133342
+ 395368 words of memory out of 5000000
+ 19613 multiletter control sequences out of 15000+600000
  47327 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,12n,69p,10437b,402s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1094,7 +1151,7 @@ ve/2016/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb></usr/local/texlive/2016
 ist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/
 type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw
 /times/utmr8a.pfb>
-Output written on newsletter.pdf (3 pages, 348319 bytes).
+Output written on newsletter.pdf (3 pages, 349136 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
